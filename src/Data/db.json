@@ -1,0 +1,29 @@
+{
+    "usuarios": [
+      {
+        "id": 1,
+        "nombre": "Juan",
+        "cellphone": "1234567890",
+        "password": "password"
+      },
+      {
+        "id": 2,
+        "nombre": "Maria",
+        "cellphone": "0987654321",
+        "password": "password123"
+      }
+    ],
+    "mensajes": [
+      {
+        "id": 1,
+        "usuarioId": 1,
+        "texto": "Hola, ¿cómo estás?"
+      },
+      {
+        "id": 2,
+        "usuarioId": 2,
+        "texto": "Todo bien, gracias. ¿Y tú?"
+      }
+    ]
+  }
+  
