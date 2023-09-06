@@ -1,13 +1,9 @@
 import React from 'react';
 
-const Home = () => {
-  return (
-    <div className="home">
-        <div className="homeBody">
-          {/* Contenido de tu página principal */}
-        </div>
+export function Home (){
+  return(
+    <div>
+      <h1>Bienvenidos</h1>
     </div>
   )
 }
-
-export default Home;
